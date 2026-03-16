@@ -4,7 +4,7 @@
 
 ## 在线预览
 
-🌐 [访问我的简历网站](https://JasonZhang822.github.io/jason-resume/)
+🌐 [访问我的简历网站](https://JasonZhang822.github.io)
 
 ## 关于我
 
